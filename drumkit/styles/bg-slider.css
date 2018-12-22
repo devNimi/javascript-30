@@ -24,11 +24,11 @@
   opacity: 0;
   z-index: 0;
   -webkit-backface-visibility: hidden;
-  -webkit-animation: imageAnimation 36s linear infinite 0s;
-  -moz-animation: imageAnimation 36s linear infinite 0s;
-  -o-animation: imageAnimation 36s linear infinite 0s;
-  -ms-animation: imageAnimation 36s linear infinite 0s;
-  animation: imageAnimation 36s linear infinite 0s;
+  -webkit-animation: imageAnimation 42s linear infinite 0s;
+  -moz-animation: imageAnimation 42s linear infinite 0s;
+  -o-animation: imageAnimation 42s linear infinite 0s;
+  -ms-animation: imageAnimation 42s linear infinite 0s;
+  animation: imageAnimation 42s linear infinite 0s;
 }
 .cb-slideshow li div {
   z-index: 1000;
@@ -38,11 +38,11 @@
   width: 100%;
   text-align: center;
   opacity: 0;
-  -webkit-animation: titleAnimation 36s linear infinite 0s;
-  -moz-animation: titleAnimation 36s linear infinite 0s;
-  -o-animation: titleAnimation 36s linear infinite 0s;
-  -ms-animation: titleAnimation 36s linear infinite 0s;
-  animation: titleAnimation 36s linear infinite 0s;
+  -webkit-animation: titleAnimation 42s linear infinite 0s;
+  -moz-animation: titleAnimation 42s linear infinite 0s;
+  -o-animation: titleAnimation 42s linear infinite 0s;
+  -ms-animation: titleAnimation 42s linear infinite 0s;
+  animation: titleAnimation 42s linear infinite 0s;
 }
 .cb-slideshow li div h3 {
   font-family: "Lobster", cursive;
@@ -384,11 +384,11 @@
 }
 @media screen and (max-width: 1140px) {
   .cb-slideshow li div h3 {
-    font-size: 6em;
+    font-size: 8em;
   }
 }
 @media screen and (max-width: 600px) {
   .cb-slideshow li div h3 {
-    font-size: 4em;
+    font-size: 8em;
   }
 }
