@@ -384,11 +384,11 @@
 }
 @media screen and (max-width: 1140px) {
   .cb-slideshow li div h3 {
-    font-size: 3em;
+    font-size: 6em;
   }
 }
 @media screen and (max-width: 600px) {
   .cb-slideshow li div h3 {
-    font-size: 2em;
+    font-size: 4em;
   }
 }
